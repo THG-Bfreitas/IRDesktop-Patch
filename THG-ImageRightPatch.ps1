@@ -7,10 +7,10 @@
 
 ###### Vars#####
 $Path="C:\temp"
-$MSI = "IRDesktop.Patch.6.9.255.1544.msp"
-$URL = "https://github.com/THG-Bfreitas/IRDesktop-Patch/raw/main/IRDesktop.Patch.6.9.255.1544.msp"
-$OutputURL = "C:\temp\IRDesktop.Patch.6.9.255.1544.msp"
-$Msilogfile = "IRDesktop.Patch.6.9.255.1544.txt"
+$MSI = "IRConnect.msi"
+$URL = "https://raw.githubusercontent.com/THG-Bfreitas/IRfiles/master/IRConnect.msi"
+$OutputURL = "IRConnect.msi"
+$Msilogfile = "IRConnect.txt"
 $scriptlogfile ="scriptlogs.txt"
 
 
